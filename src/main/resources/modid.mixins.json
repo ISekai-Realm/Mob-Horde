@@ -3,7 +3,7 @@
 	"package": "com.example.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+      "net.biryeongtrain.monster_carnival.mixin.ExampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
