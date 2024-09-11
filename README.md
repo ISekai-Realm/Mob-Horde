@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# Mob-Horde
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+this mod is Faction(https://github.com/ickerio/factions) Addon that make faction can sabotage enemy(or other, no matter is ally or not) faction.
+
+When success sabotage, you can steal extra Faction Base Power value, so you can grow your faction easily.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+**You can use this mod, but you can not re-distriubte this wrapped file(like .jar file) **
+all downloads must used by my uploads, ohter way is not permited. 
