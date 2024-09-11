@@ -8,5 +8,5 @@ When success sabotage, you can steal extra Faction Base Power value, so you can 
 
 ## License
 
-**You can use this mod, but you can not re-distriubte this wrapped file(like .jar file) **
+**You can use this mod, but you can not re-distriubte this wrapped file(like .jar file)** <br>
 all downloads must used by my uploads, ohter way is not permited. 
